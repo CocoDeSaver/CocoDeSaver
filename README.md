@@ -68,7 +68,7 @@ This architecture helps improve response relevance and reduces hallucination com
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CocoDeSaver&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" />
 
 ---
 
