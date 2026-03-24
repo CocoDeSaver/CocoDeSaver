@@ -75,5 +75,5 @@ This architecture helps improve response relevance and reduces hallucination com
 
 # Reach me
 
-[![Gmail](https://img.shields.io/badge/email%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmicolasradita@gmail.com)
+[![Gmail](https://img.shields.io/badge/email%20me-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:micolasradita@gmail.com)
 
