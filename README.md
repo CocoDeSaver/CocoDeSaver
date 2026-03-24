@@ -15,11 +15,6 @@ Currently, I focus on developing **AI chatbot systems** that integrate machine l
   - AI System Architecture
   - Backend Development & API Design
   - Data Processing Pipelines
-
-- 💬 Ask me about AI systems, NLP, or software development.
-
-- 🪴 Fun fact: I enjoy exploring how different AI models can work together in a single system pipeline.
-
 ---
 
 # 🧠 Featured Project
