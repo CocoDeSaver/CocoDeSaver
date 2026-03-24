@@ -42,7 +42,6 @@ This architecture helps improve response relevance and reduces hallucination com
 
 # Tech Stack 🚀
 
-<br>
 <div align="left">
 
 ### Programming
